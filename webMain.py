@@ -132,7 +132,7 @@ elif choice == 'DATA':
         st.write(df)
 elif choice == 'HOME':
     with col1:
-        st.image("chloe.jpg",width=990, caption="MY wife") 
+        st.image("",width=990, caption="MY wife") 
 
 elif choice == "ABOUT":
     st.markdown("<h1 style='text-align: center; color: black;'>ABOUT</h1>", unsafe_allow_html=True) #title
